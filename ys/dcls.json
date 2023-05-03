@@ -1,16 +1,28 @@
 {
     "urls": [
         {
-            "url": "https://download.kstore.space/download/3313/mao/ymz",
+            "url": "https://raw.kgithub.com/gaotianliuyun/gao/master/0820.json",
             "name": "💖52霖科技主线路💖"
+        },
+        {
+            "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
+            "name": "💖52霖科技副线路💖"
         },
         {
             "url": "https://framagit.org/lzk23559/TVRule/-/raw/main/XYQTVBox.json",
             "name": "💖52霖-xyq💖"
         },
         {
-            "url": "https://gitee.com/lekanbox/ysc/raw/master/ysc.json",
-            "name": "💖52霖-乐看🌹💖"
+            "url": "https://download.kstore.space/download/3313/mao/ymz",
+            "name": "💖52霖-yemao🌹💖"
+        },
+        {
+            "url": "https://raw.kgithub.com/gaotianliuyun/gao/master/XYQ.json",
+            "name": "💖52霖-gao-xyq💖"
+        },
+        {
+            "url": "https://raw.kgithub.com/lin888666/520/lin/ys/pingguo",
+            "name": "💖52霖-苹果💖"
         },
         {
             "url": "http://miaotvs.cn/meow",
@@ -45,7 +57,7 @@
             "name": "💖52霖-jun💖"
         },
         {
-            "url": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/Avatar.json",
+            "url": "https://weixine.net/ysc.json",
             "name": "💖52霖-YS车💖"
         },
         {
@@ -53,11 +65,11 @@
             "name": "💖52霖-tang3💖"
         },
         {
-            "url": "https://yydsys.top/lm.json",
+            "url": "https://yydsys.top/duo/lm.json",
             "name": "💖52霖-龙M💖"
         }, 
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt",
+            "url": "https://raw.kgithub.com/chengxueli818913/maoTV/main/44.txt",
             "name": "💖52霖-欣园💖"
         },
         {
@@ -65,16 +77,12 @@
             "name": "💖52霖-海阔线路💖"
         },
         {
-            "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
-            "name": "💖52霖-分享者💖"
+            "url": "https://raw.kgithub.com/gaotianliuyun/gao/master/js.json",
+            "name": "💖52霖-gao道💖"
         },
         {
             "url": "http://dxawi.github.io/0/0.json",
             "name": "💖52霖-dxawi0💖"
-        },
-        {
-            "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
-            "name": "💖52霖-小苹果💖"
         },
         {
             "url": "https://raw.liucn.cc/box/m.json",
