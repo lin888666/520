@@ -2,12 +2,12 @@
 “网站”：[
 
 
-{  "key" : "js豆瓣" , "名称" : "🐼┃豆瓣┃52霖科技嘿嘿 " , "类型" : 3 , "api" : "http://id.ganggang.live:63/js/ drpy.min.js"、"ext" : "http://id.ganggang.live:63/js/js_drpy.js"、"可搜索" : 0、"quickSearch" : 0、"可过滤" : 0  } ,
+{  "key" : "js豆瓣" , "名称" : "🐼┃豆瓣┃52霖科技鸽鸽" , "类型" : 3 , "api" : "http://id.ganggang.live:63/js/ drpy.min.js"、"ext" : "http://id.ganggang.live:63/js/js_drpy.js"、"可搜索" : 0、"quickSearch" : 0、"可过滤" : 0  } ,
 
 // {  "key" : "douban" , "name" : "🐼┃豆瓣┃T首页" , "type" : 4 , "api" : "http://t4.ganggang.live:3812/vod" , “可搜索”：0，“快速搜索”：0，“可过滤”：0  }，
 
 // { "key" : "csp_XYQ_lu1" , "name" : "🐼️┃电视┃直播" , "type" : 3 , "api" : "csp_XYQHiker" , "可搜索" : 1 , "quickSearch" : 1 , "可过滤" : 0 , "ext" : "http://我不是.肥猫.love:63/ningmeng.json" } ,
-{ "key" : "直播转点播" , "name" : "🐼️┃电视┃直播" , "type" : 3 , "api" : "http://我不是.肥猫.love:63/JS/直播转点播2.js" , "ext" : "http://我不是.肥猫.love:63/lives/直播仓.json" } ,
+{  "key" : "直播转点播" , "name" : "🐼️┃电视┃直播" , "type" : 3 , "api" : "http://我不是.肥猫.love:63/JS/直播转点播2.js" , "ext" : "http://我不是.肥猫.love:63/lives/直播仓.json"  } ,
 
 
 
