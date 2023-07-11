@@ -1,7 +1,7 @@
 {
-“网站”：[
+“网站”：[[
 
-aoligeigei
+奥利给给
 {    "key" : "js豆瓣" , "名称" : "🐼┃豆瓣┃52霖科技魔渡众生" , "类型" : 3 , "api" : "http://id.ganggang.live:63/js / drpy.min.js"、"ext" : "http://id.ganggang.live:63/js/js_drpy.js"、"可搜索" : 0、"quickSearch" : 0、"可过滤" : 0   } ,
 
 // {    "key" : "douban" , "name" : "🐼┃豆瓣┃T首页" , "type" : 4 , "api" : "http://t4.ganggang.live:3812/vod" , “可搜索”：0，“快速搜索”：0，“可过滤”：0    }，
@@ -21,7 +21,7 @@ aoligeigei
 
 {"key"{"key":"csp_DiDuan" ,"name":"⏮️┃低端┃影视","type":3,"api":"csp_Ddrk","click": "ddys.tv;#vjsp > 按钮" ,"可搜索":1,"快速搜索":1,"可过滤":0},"csp_DiDuan" ,"name":"⏮️┃低端┃影视","type":3,"api":"csp_Ddrk","click": "ddys.tv;#vjsp > button","searchable":1,"quickSearch":1,"filterable":0},
 
-{"key"{"key":"Czsapp","name":"🏭┃厂长┃影视","type":"3","api":"csp_Czsapp","searchable":"1","quickSearch": "1","可过滤":"1"},"Czsapp","name":"🏭┃厂长┃影视","type":"3","api":"csp_Czsapp","searchable":"1",“快速搜索”：“1”，“可过滤”：“1” }，
+{"key"{"key"{"key"{"key":"Czsapp","name":"🏭┃厂长┃影视","type":"3","api":"csp_Czsapp","可搜索":"1", "quickSearch": "1","可过滤":"1"},"Czsapp","name":"🏭┃厂长┃影视","type":"3","api":"csp_Czsapp" ,"可搜索":"1",“快速搜索”：“1”，“可过滤”：“1” }，"Czsapp","name":"🏭┃厂长┃影视","type":"3","api":"csp_Czsapp","searchable":"1","quickSearch": "1","可过滤":"1"},"Czsapp","name":"🏭┃厂长┃影视","type":"3","api":"csp_Czsapp","searchable":"1",“快速搜索”：“1”，“可过滤”：“1” }，
 
 { "key" { "key" : "csp_biubiu_voflix" , "name" : "🌀┃Vof ┃影视" , "type" : 3 , "api" : "csp_XBPQ" , "可搜索" : 1 , "quickSearch" : 1 , "可过滤" : 1 , "ext" : "http://我不是.肥猫.love:63/json/voflix.json" } , "csp_biubiu_voflix" , "name" : "🌀┃Vof ┃影视”，“类型”：3，“api”："csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://我不是.肥猫.love:63/json/voflix.json"},
 
