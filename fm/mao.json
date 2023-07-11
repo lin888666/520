@@ -1,8 +1,8 @@
 {
-"sites":[
+“网站”：[
 
 
-{"key":"js豆瓣","name":"🐼┃豆瓣┃52霖科技哈哈","type":3,"api":"http://id.ganggang.live:63/js/drpy.min.js","ext":"http://id.ganggang.live:63/js/js_drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
+{ "key" : "js豆瓣" , "名称" : "🐼┃豆瓣┃52霖科技HEHE " , "类型" : 3 , "api" : "http://id.ganggang.live:63/js/ drpy.min.js"、"ext" : "http://id.ganggang.live:63/js/js_drpy.js"、"可搜索" : 0、"quickSearch" : 0、"可过滤" : 0 } ,
 
 // { "key" : "douban" , "name" : "🐼┃豆瓣┃T首页" , "type" : 4 , "api" : "http://t4.ganggang.live:3812/vod" , “可搜索”：0，“快速搜索”：0，“可过滤”：0 }，
 
@@ -28,7 +28,7 @@
 {"key" : "Alist1","name" :"🅿┃Alis ┃网盘","type" : 3,"api" : "http://id.ganggang.live:63/lib/alist.min.js","ext" : "http://我不是.肥猫.love:63/alist.json"},
 //{"key": "Alist2","name": "🅿┃Alis ┃搜索","type": 3,"api": "csp_AList","searchable": 1,"filterable": 1," ext":"http://我不是.肥猫.love:63/json/alist3.json","jar":"http://我不是.肥猫.love:63/Jar/Alist3.jar; md5;906B337D4B4BAEF13292D004E5FD8F9B"},{"key": "Alist2","name": "🅿┃Alis ┃搜索","type": 3,"api": "csp_AList","searchable": 1,"filterable": 1,"ext":"http://我不是.肥猫.love:63/json/alist3.json","jar":"http://我不是.肥猫.love:63/Jar/Alist3.jar;md5;906B337D4B4BAEF13292D004E5FD8F9B"},
 
-{"key"{"key":"csp_Paper","name":"📜┃纸条┃云盘","type":3,"api":"csp_Paper","可搜索":1,"quickSearch":1,"可过滤":1,"ext":"http://hz752.love:63/ali/ken.php"},"csp_Paper","name":"📜┃纸条┃云盘","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://hz752.love:63/ali/ken.php"},
+{"key"{"key":"csp_Paper","name":"📜┃纸条┃云盘","type":3,"api":"csp_Paper","可搜索":1,"quickSearch":1,"可过滤":1,"ext":"http://hz752.love:63/ali/ken.php"},"csp_Paper","name":"📜┃纸条┃云盘","type":3,"api":"csp_Paper",“可搜索”：1，“快速搜索”：1，“可过滤”：1，“ext”：“http://hz752.love:63/ali/ken.php” }，
 
 //{"key":"csp_GitCafe","name":"📜┃纸条┃云盘","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1 ,"可过滤":1,"可更改":0,"ext":"http://hz752.love:63/ali/ken.php"},{"key":"csp_GitCafe","name":"📜┃纸条┃雲盘","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://hz752.love:63/ali/ken.php"},
 {"key"{"key": "csp_Hlsp","name": "👿┃黑料┃影视","type": 3,"api": "csp_Hlsp","可搜索": 1,"quickSearch": 1,"可过滤": 1,"ext": "http://我不是.肥猫.love:63/json/黑料.json"},"csp_Hlsp","name": "👿┃黑料┃影视","type": 3,"api": "csp_Hlsp","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://我不是.肥猫.love:63/json/黑料.json"},
