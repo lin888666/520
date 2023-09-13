@@ -1,6 +1,5 @@
 {
   "spider": "http://我不是.肥猫.love:63/Jar/pandaQ230823.jar;md5;094B4D3625D42893F683CC2E95311153",
-  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;4a0dc0ae860c90d0001f1fc0fae230f7",//新版线路raj包
   "warningText": "52霖科技维护",
   "sites": [
     {
@@ -12,7 +11,7 @@
     },
     {
       "key": "csp_FanYY",
-      "name": "🧸┃玩偶┃影视",
+      "名字":"金牛"欧尔斯,
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -22,7 +21,7 @@
     },
     {
       "key": "虎虎",
-      "name": "🐯┃虎虎┃影视",
+      "名字":"金牛-虎虎-金牛",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "http://我不是.肥猫.love:63/json/虎虎.json"
@@ -39,7 +38,7 @@
     },
      {
       "key": "csp_search_七夜",
-      "name": "👴┃七夜┃搜索",
+      "名字":"数码牛七夜牛",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
